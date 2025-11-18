@@ -68,7 +68,7 @@ function App() {
 
       <div className="notes-section">
         <div className="notes-header">
-          <h2>Your Notes ({filteredNotes.length})</h2>
+          <h2>Your Awesome Notes ({filteredNotes.length})</h2>
         </div>
         
         {filteredNotes.length === 0 ? (
