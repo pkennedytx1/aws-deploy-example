@@ -2,7 +2,7 @@ name: Build and test Example React App
 
 on:
   push:
-    branches: *
+    branches: '*'
 
 jobs:
   build and test:
